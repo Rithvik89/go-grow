@@ -19,7 +19,7 @@ func bufio_read() {
 	//  You can adjust the buffer size according to the expected data size and the efficiency of I/O operations.
 	//  No need to mention the hardcoded buffer size.
 
-	// Also with bufio  bufio provides additional methods and abstractions that make working with buffered I/O easier and more convenient.
+	// Also with bufio, bufio provides additional methods and abstractions that make working with buffered I/O easier and more convenient.
 	// For example, it provides a Scanner type for scanning input and breaking it into lines or tokens, as well as methods like ReadLine,
 	// ReadString, and ReadBytes for reading data in various formats.
 
